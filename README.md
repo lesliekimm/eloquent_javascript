@@ -1,4 +1,2 @@
-# eloquent javascript
-### a modern introduction to programming
-### by marijn haverbeke
-#### second edition
+# eloquent javascript by marijn haverbeke
+#### a modern introduction to programming - second edition
